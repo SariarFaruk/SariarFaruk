@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **HR Managerr** passionate about building relations that make a real difference in people's lives. With **[X] years** of experience, I specialize in transforming user needs into scalable solutions through data-driven decision making and cross-functional collaboration.
+I'm a **HR Manager** passionate about building relations that make a real difference in people's lives. With **[X] years** of experience, I specialize in transforming user needs into scalable solutions through data-driven decision making and cross-functional collaboration.
 
 ### What Drives Me
 - 🎯 **User-Centric Thinking** - Every decision starts with "How does this help our users?"
@@ -21,11 +21,11 @@ I'm a **HR Managerr** passionate about building relations that make a real diffe
 
 ## 💼 Current Role & Focus
 
-**Senior Product Manager** @ [Company Name]  
-*Leading the [Product/Platform Name] that serves [X]K+ users*
+**Senior HR Manager** @ EVU  
+*Leading the Human Resource that serves [X]K+ users*
 
 ### 🎯 What I'm Working On
-- **Product Strategy**: Defining and executing our 2025-2026 roadmap
+- **HR Strategy**: Defining and executing our 2025-2026 roadmap
 - **User Experience**: Leading design thinking workshops and user research initiatives  
 - **Growth**: Optimizing conversion funnel (current: 12% → target: 18%)
 - **Team Building**: Mentoring junior PMs and fostering cross-functional collaboration
@@ -86,12 +86,12 @@ I believe the best ideas come from diverse perspectives and cross-functional col
 
 ### Professional Journey
 ```
-2024-Present    Senior Product Manager @ [Current Company]
+2025-Present    HR & Project manager @ EVU
                 → Leading B2B SaaS platform (50K+ users)
                 → Grew ARR by 200% in 18 months  Evu
 
-2022-2024       Product Manager @ [Previous Company]  
-                → Launched mobile app (4.8★ rating)
+2022-2025       HR & Project manager @ WordSphere Inc.  
+                → ....................................
                 → Reduced churn by 40% through UX improvements
 
 2020-2022       Associate Product Manager @ [First PM Role]
@@ -100,7 +100,7 @@ I believe the best ideas come from diverse perspectives and cross-functional col
 ```
 
 ### Education & Certifications
-- **🎓 MBA in Technology Management** - [University Name]
+- **🎓 MBA in HRM Management** - Pundra University of Science & Technology**
 - **📜 Certified Scrum Product Owner (CSPO)**  
 - **📊 Google Analytics Individual Qualification**
 - **🎨 Design Thinking Certificate** - Stanford d.school
