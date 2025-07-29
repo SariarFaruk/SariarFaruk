@@ -1,16 +1,15 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sariar Faruk
 
-> *Product Manager who turns complex problems into simple, delightful user experiences*
+> *Hr Manager at EVU who is always ready to help all the team members in need*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-success.svg)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:your.email@company.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:smfaruk.lh@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Product Manager** passionate about building products that make a real difference in people's lives. With **[X] years** of experience, I specialize in transforming user needs into scalable solutions through data-driven decision making and cross-functional collaboration.
+I'm a **HR Managerr** passionate about building relations that make a real difference in people's lives. With **[X] years** of experience, I specialize in transforming user needs into scalable solutions through data-driven decision making and cross-functional collaboration.
 
 ### What Drives Me
 - 🎯 **User-Centric Thinking** - Every decision starts with "How does this help our users?"
