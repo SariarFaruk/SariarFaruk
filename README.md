@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me (This profile is under construction)
 
 I'm a **HR Manager** passionate about building relations that make a real difference in people's lives. With **[X] years** of experience, I specialize in transforming user needs into scalable solutions through data-driven decision making and cross-functional collaboration.
 
