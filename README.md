@@ -2,7 +2,7 @@
 
 > *Hr Manager at EVU who is always ready to help all the team members in need*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/smfaruk)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:smfaruk.lh@gmail.com)
 
 ---
